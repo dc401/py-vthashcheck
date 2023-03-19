@@ -2,7 +2,7 @@
 A proof of concept AWS Lambda Python 3.7 runtime that takes Amazon S3 objects, evaluates against file magic MIME types, and will check existing SHA256 hashes or upload the file to VirusTotal using an API key. The API key is retrieved using security best practices with AWS Secrets Manager cached to reduce API overhead.
 
 ### Walkthrough
-Article Coming Soon
+[Threat Informed Defense with AWS Lambda and VirusTotal](https://medium.com/@dwchow/threat-informed-defense-with-aws-lambda-and-virustotal-35512ca32a17)
 
 
 ## Usage
